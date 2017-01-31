@@ -1,4 +1,4 @@
-# Ubuntu 16.04 Vagrant Image + Odoo Community Backports v9.0 + Liclipse
+# Ubuntu 16.04 Vagrant Image + Odoo Community Backports v10.0
 
 This image is based off [boxcutter/ubuntu1604-desktop](https://atlas.hashicorp.com/box-cutter/boxes/ubuntu1604-desktop).
 
@@ -14,7 +14,7 @@ The following must be installed:
 + [Vagrant](https://www.vagrantup.com/)
 + [Virtualbox 5.0.4 or later](https://www.virtualbox.org/)
 
-To make this vagrant work best, put the [Odoo repo](https://www.virtualbox.org/)
+To make this vagrant work, put OCA's [OCB repo](https://www.github.com/OCA/OCB/)
 in the same parent folder as this Vagrant folder.
 
 ## Usage
